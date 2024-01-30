@@ -60,6 +60,6 @@ A CSS Reset file circumvents inconsistencies across different browsers when deve
 
 **Additional Notes:**
 
-*   Consider using a well-established CSS reset stylesheet like Normalize.css, which offers a more comprehensive and up-to-date approach.
+*   Consider using a well-established CSS reset stylesheet , which offers a more comprehensive and up-to-date approach.
 *   Customize the reset to fit your specific project needs.
 *   Use browser developer tools to inspect elements and understand their default styles.
